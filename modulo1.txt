@@ -1,0 +1,21 @@
+1. ¿Qué es un código de bytes y por qué es importante su uso en Java para la programación de
+Internet?
+2. ¿Cuáles son los tres principios de la programación orientada a objetos?
+3. ¿Dónde empieza la ejecución de los programas de Java?
+4. ¿Qué es una variable?
+5. ¿Cuál de los siguientes nombres de variables no es válido?
+a) cuenta
+b) $cuenta
+c) cuenta 27
+d) 67cuenta
+6. ¿Cómo crea un comentario de una sola línea? ¿Cómo crea uno de varias líneas?
+7. Muestre la forma general de la instrucción if. Muestre la forma general del bucle for.
+8. ¿Cómo se crea un bloque de código?
+9. La gravedad de la Luna es de alrededor de 17% la de la Tierra. Escriba un programa que calcule
+su peso efectivo en la Luna.
+10. Adapte el proyecto 1.2 para que imprima una tabla de conversión de pulgadas a metros.
+Despliegue 12 pies de conversiones, pulgada por pulgada. Dé salida a una línea en blanco cada 12
+pulgadas. (Un metro es aproximadamente igual a 39.37 pulgadas.)
+11. Si comete un error de escritura cuando esté ingresando su programa, ¿qué tipo de error
+aparecerá?
+12. ¿Es importante el lugar de la línea en el que coloca una instrucción?
